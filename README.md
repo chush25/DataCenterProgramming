@@ -1,5 +1,9 @@
 # DataCenterProgramming
-데이터센터프로그래밍 과제
+### 데이터센터프로그래밍 과제3  
+
+Mongo DB, Mongo Express를 사용하여 pods 간의 통신을 보여주려 함.
+- Web application과 DB의 communication을 잘 보여줄 수 있는 간단한 예시.
+
 ### kubectl apply commands in order
     
     kubectl apply -f mongo-secret.yaml
